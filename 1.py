@@ -5,7 +5,7 @@ Create a program that prompts for your name and prints a greeting using your nam
 """
 
 a = input("What is your name?")
-print( "Hello " + a + ", nice to meet you!")
+print("Hello " + a + ", nice to meet you!")
 
 # Challenges
 
