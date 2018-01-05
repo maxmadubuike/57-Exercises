@@ -21,7 +21,7 @@ H is the number of hours since the last drink.
 Display whether or not it's legal to drive by comparing the blood alcohol content
 to 0.08.
 """
-from bac_calc_functions import *
+from ex_17_bac_calc_functions import *
 
 def bac_calculator():
     greeting()
