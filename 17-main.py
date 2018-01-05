@@ -20,6 +20,8 @@ H is the number of hours since the last drink.
 
 Display whether or not it's legal to drive by comparing the blood alcohol content
 to 0.08.
+
+http://projects.madmax.io/?p=68
 """
 from ex_17_bac_calc_functions import *
 
