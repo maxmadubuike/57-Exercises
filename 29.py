@@ -25,6 +25,7 @@ def main():
 			else:
 				years = 72 / rate_clean
 				print("It will take {} years to double your initial investment.".format(years))
+				break
 		else:
 			print("Sorry, that is not a valid input.\n")
 			return main()
