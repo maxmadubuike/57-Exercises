@@ -1,4 +1,6 @@
 """
+Exercise 14: Tax Calculator
+
 Write a simple program to compute the tax on an order amount.
 The program should prompt for the order amount and the state.
 If the state is "WI," then the order must be charged 5.5% tax. 
