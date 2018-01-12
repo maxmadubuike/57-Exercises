@@ -30,4 +30,6 @@ def paint_calculator():
   
   print("You will need {} gallons of paint to cover {} square feet.".format(math.ceil(gallons_needed), area_of_ceiling))
   
+ paint_calculator()
+  
   
