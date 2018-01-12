@@ -1,13 +1,12 @@
 """
 Exercise 18: Temperature Converter
 
-You'll often need to determine which part of a program is run based on user input or other events.
-
 Create a program that converts temperatures from Fahrenheit to Celcius or from Celsius to Fahrenheit.
 Prompt for the starting temperature.  The program should prompt for the type of conversion and then
 perform the conversion.
 
 """
+
 from ex_18_func import *
 
 def temperature_converter():
