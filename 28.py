@@ -1,4 +1,6 @@
 '''
+Exercise 28: Adding Numbers
+
 Write a program that prompts the user for five numbers and computes the total
 of the numbers.
 
