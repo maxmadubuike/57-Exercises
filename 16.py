@@ -8,6 +8,7 @@ display "You are old enough to legally drive."  If the
 user is under sixteen, the program should display
 "You are not old enough to legally drive."
 """
+
 import datetime
 
 def legal_driving_age():
