@@ -17,6 +17,7 @@ Constraints:
  - Use a single ouput statement at the end of the program to display the program results.
 
 """
+
 from ex_20_func import *
 
 def state_sales_tax_calculator():
