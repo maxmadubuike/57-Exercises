@@ -18,5 +18,3 @@ def number_of_characters():
 		print(a + " has " + str(len(a)) + " characters.")
 			
 number_of_characters()
-
-
