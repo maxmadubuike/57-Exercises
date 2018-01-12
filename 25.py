@@ -18,6 +18,7 @@ Constraints:
     - Use a single output statement.
 
 '''
+
 from ex_25_func import *
 
 def main():
