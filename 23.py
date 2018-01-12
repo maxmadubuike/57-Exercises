@@ -4,6 +4,7 @@ Exercise 23: Troubleshooting Car Issues
 Create a program that walks the user through troubleshooting
 issues with a car.
 '''
+
 from ex_23_func import *
 
 def car_issues():
