@@ -1,4 +1,6 @@
 '''
+Exercise 27: Validating Inputs
+
 Write a program that prompts for the first name, last name, employee ID, and
 Zip code.  Ensure the input is valid according to these rules:
     - The first name must be filled in.
