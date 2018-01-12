@@ -1,8 +1,13 @@
 """
 Exercise 10: Self-Checkout
-Create a simple self-checkout system.  Prompt for the prices and quantities of three items.  Calculate the subtotal of the items.  Then calculate the tax using a tax rate of 5.5%.  Print out the line items with the quantity and total, and then print out the subtotal, tax amount, and total.
+
+Create a simple self-checkout system.  Prompt for the prices and quantities of three items.  Calculate the subtotal 
+of the items.  Then calculate the tax using a tax rate of 5.5%.  Print out the line items with the quantity and 
+total, and then print out the subtotal, tax amount, and total.
+
 Contraints:
-Keep the input, processing, and output parts of your program seperate.  Collect the input, do the math operations, and string building, and then print out the outpu.
+Keep the input, processing, and output parts of your program seperate.  Collect the input, do the math operations, 
+and string building, and then print out the output.
 Be sure you explicitly convert input to numerical data before doing calculations.
 """
 
@@ -28,3 +33,5 @@ def get_items():
   print("Subtotal: ${}".format(subtotal))
   print("Tax: ${}".format(tax))
   print("Total: ${}".format(total))
+
+ get_items()
