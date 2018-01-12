@@ -7,6 +7,9 @@ password.  The program should compare the password given
 by the user to a known  password.  If the password matches,
 the program should display "Welcome!"  If it doesn't match,
 the program should display "I don't know you."
+
+Constraints:
+Use an if/else statement for this problem.
 """
 
 def password_validation():
