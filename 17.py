@@ -1,6 +1,5 @@
 """
-Sometimes you have to perform a more complex calculation based on some provided inputs and
-then use that result to make a determination.
+Exercise 17: Blood Alcohol Calculator
 
 Create a program that prompts for your weight, gender, number of drinks, the amount of alcohol
 by volume of the drinks consumed, and amount of time since your last drink.
