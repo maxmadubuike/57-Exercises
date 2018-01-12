@@ -1,5 +1,5 @@
 """
-Exercise 7: Area of rectangular room
+Exercise 07: Area of a Rectangular Room
 
 Create a program that calculates the area of a room.  Prompt
 the user for the length and width of the room in feet.  Then
