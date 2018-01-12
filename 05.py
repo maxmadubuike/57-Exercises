@@ -35,5 +35,4 @@ def simple_math():
 		div_ops(c, d)
 
 
-	
 simple_math()
