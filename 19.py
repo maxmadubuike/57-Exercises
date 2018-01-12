@@ -1,5 +1,6 @@
 '''
 Exercise 19: BMI Calculator
+
 Create a program to calculate the body mass index (BMI) for a person using the
 person's height in inches and weight in pounds.  The program should prompt
 the user for weight and height.
