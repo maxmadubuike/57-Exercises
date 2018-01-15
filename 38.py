@@ -12,10 +12,10 @@ def greeting():
 def numInput():
   chosenNum = input("Enter a list of numbers, separated by spaces: ")
   chosenNumList = []
-  for a in chosenNum:
-    if a != ' ':
-      if int(a) % 2 == 0:
-        chosenNumList.append(a)
+  nums = chosenNum.split()
+  for a in nums:
+    if int(a) % 2 == 0:
+      chosenNumList.append(a)
   print("The even numbers are {}".format(" ".join(chosenNumList)))
     
 numInput()
